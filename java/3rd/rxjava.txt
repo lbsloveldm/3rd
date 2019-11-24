@@ -1,0 +1,18 @@
+解决的问题：
+	响应式编程 流式编程
+本质：
+	
+缺点：
+	overhead
+	难于调试
+	https://blog.csdn.net/b644ROfP20z37485O35M/article/details/100088752
+	难于完全掌握: 
+		你永远无法预测你同事的RxJava水平
+	RxJava的行为并不可预
+	甲之蜜糖，乙之砒霜
+
+
+	
+	
+适合场景：
+
